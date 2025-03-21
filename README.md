@@ -1,4 +1,4 @@
-# 🕵️‍♂️ BizBuySell Web Scraper  
+#  BizBuySell Web Scraper  
 
 ## 📌 Overview  
 This Python-based **web scraper** extracts business listings from **BizBuySell**, focusing on owner-financed and established businesses. It collects details such as **title, location, asking price, cash flow, reason for selling, broker details, and phone numbers** from multiple pages.  
