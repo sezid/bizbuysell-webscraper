@@ -35,7 +35,6 @@ The extracted data is saved in **`listings.csv`** with the following columns:
 ## 🚀 Installation & Setup  
 
 ### 1️⃣ Prerequisites  
-- Install **Python 3.x**  
 - Install **Google Chrome** (ensure it's updated)  
 
 ### 2️⃣ Install Required Libraries  
