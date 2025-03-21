@@ -30,7 +30,9 @@ The scraper works in two steps:
 ### 2️⃣ Install Required Libraries  
 ```sh
 pip install -r requirements.txt
+```
 
 ### 3️⃣ Run the Scrapper  
 ```sh
 python scrapper.py
+```
